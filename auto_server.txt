@@ -1,1 +1,1 @@
-vless://657cd349-4fb6-4fba-8357-5d24b83b9cff@85.155.125.68:8443?type=tcp&encryption=none&security=reality&pbk=G1z-ZxZNi-8TnOvmNrxJhHfYRIPgs6J0QTOsTIiCRjY&fp=chrome&sni=sun6-21.userapi.com&sid=ba&spx=%2F&flow=xtls-rprx-vision#CrackVPN%20|%2018.04.26
+vless://f223d36a-e6b8-458f-a294-da8228562666@5.61.44.62:443?type=tcp&security=reality&pbk=XXHfiBgPD508UO0wn9TfzvfbrE3WViciaYgxA91prBw&fp=random&sni=st.ozone.ru&sid=fee76520&spx=%2F&flow=xtls-rprx-vision#CrackVPN%20|%2021.04.26
