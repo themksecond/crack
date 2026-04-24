@@ -15,3 +15,5 @@ vless://ddb6b10a-1329-4229-bf64-711c6e5c7298@38.180.193.199:443?security=reality
 vless://51e18d67-0bc1-4672-ab04-4fccc7db8f9c@46.151.29.174:8443?type=grpc&encryption=none&serviceName=vt-1.ozone.ru&authority=&security=reality&pbk=Q46bGNAN1xdykeHHAZW7A_hN2S0MFF4fZFmfr8LT4nk&fp=chrome&sni=vt-1.ozone.ru&sid=7445&spx=%2F#CrackVPN%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%2323
 
 vless://b50c1acc-5cab-4c80-a9d2-15529cc69a2e@5.61.44.62:443?type=tcp&security=reality&pbk=XXHfiBgPD508UO0wn9TfzvfbrE3WViciaYgxA91prBw&fp=random&sni=st.ozone.ru&sid=fee76520&spx=%2F&flow=xtls-rprx-vision#CrackVPN%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%2320
+
+vless://5b211f71-dff3-4e6d-808f-886052935f44@kinofi7.komediyatorg.net:443/?type=tcp&security=tls&encryption=none&fp=chrome&sni=kinofi7.komediyatorg.net&allowInsecure=0&alpn=h2%2Ch3%2Chttp%2F1.1#CrackVPN%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%237
