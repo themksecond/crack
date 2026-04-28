@@ -1,3 +1,5 @@
 vless://5b211f71-dff3-4e6d-808f-886052935f44@kinofi7.komediyatorg.net:443/?type=tcp&security=tls&encryption=none&fp=chrome&sni=kinofi7.komediyatorg.net&allowInsecure=0&alpn=h2%2Ch3%2Chttp%2F1.1#CrackVPN%20%7C%20%F0%9F%8C%8D%20Auto
 
 vless://0d629ad1-9e24-477c-b036-437f058bff3d@to.fastcdnto-eu.com:443?type=tcp&encryption=none&security=reality&pbk=LYO7FZmBgxvTdDV61IUsNTZel3iMZYcdvHk1oI6snCg&fp=chrome&sni=www.microsoft.com&sid=a1b2c3d4&spx=%2F&flow=xtls-rprx-vision#CrackVPN%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%2341
+
+vless://7debd993-0f77-4621-a436-9b44cedf6cba@to.fastcdnto-eu.com:8443?type=tcp&encryption=none&security=reality&pbk=Qrhpb-Go4J-zpRKtZneHGQXsAmRJbMuG0uE70Z2stTI&fp=chrome&sni=www.apple.com&sid=e6dfbc8c&spx=%2F&flow=xtls-rprx-vision#CrackVPN%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%2342
